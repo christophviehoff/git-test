@@ -15,7 +15,9 @@
   "author": "christoph_viehoff",
   "license": "ISC",
   "homepage": "https://bitbucket.org/christoph_viehoff/git-test#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2"
+  },
   "devDependencies": {
     "lite-server": "^2.3.0"
   }
